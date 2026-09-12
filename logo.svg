@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 160" role="img" aria-labelledby="title desc">
+  <title id="title">Ecapel Global Limited</title>
+  <desc id="desc">Gold globe mark and Ecapel Global Limited wordmark</desc>
+  <defs><linearGradient id="gold" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#f5d992"/><stop offset=".48" stop-color="#bb8b36"/><stop offset="1" stop-color="#efd383"/></linearGradient></defs>
+  <g fill="none" stroke="url(#gold)" stroke-width="3">
+    <ellipse cx="86" cy="80" rx="70" ry="25" transform="rotate(-24 86 80)"/><ellipse cx="86" cy="80" rx="70" ry="25" transform="rotate(25 86 80)"/><ellipse cx="86" cy="80" rx="26" ry="72" transform="rotate(65 86 80)"/>
+  </g>
+  <circle cx="86" cy="80" r="42" fill="url(#gold)" opacity=".9"/>
+  <path d="M50 58c11-13 26-19 40-18l-7 12 10 8-6 12-20-1-5 13-10-5zm43 12 17-6 14 9-9 11-14-2-7 11-12-6zM63 98l16-2 13 11-8 12-17-5z" fill="#a77729" opacity=".8"/>
+  <path d="M149 26h2v108h-2z" fill="url(#gold)"/>
+  <g fill="url(#gold)" font-family="Arial, sans-serif" font-weight="700"><text x="169" y="78" font-size="53" letter-spacing="-3">EGL</text><text x="388" y="54" font-size="15" letter-spacing="2">ECAPEL</text><text x="388" y="77" font-size="15" letter-spacing="2">GLOBAL</text><text x="388" y="100" font-size="15" letter-spacing="2">LIMITED</text></g>
+  <path d="M373 38v72" stroke="url(#gold)" stroke-width="2"/>
+</svg>
